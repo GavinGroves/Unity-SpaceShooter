@@ -15,4 +15,5 @@
 - 技能
   - 血条、护盾、子弹增加
 - Sorce 最高分记录
-<div align="center"> <iframe id="video" width="500" height="500" src="https://github.com/GavinGroves/gavingroves.github.io/assets/66084756/62e590c3-96d7-4048-9164-4b4e168d43c1"></iframe> </div>
+
+
