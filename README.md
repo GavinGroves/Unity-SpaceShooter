@@ -15,5 +15,8 @@
 - 技能
   - 血条、护盾、子弹增加
 - Sorce 最高分记录
+- 对象池
 
+
+https://github.com/knellwake/Unity-SpaceShooter/assets/66084756/9f9523e1-8cd7-4cb6-a45a-5f3c98445c38
 
